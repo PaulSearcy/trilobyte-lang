@@ -1,0 +1,13 @@
+{
+  "name": "@trilobyte/parser",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "author": {
+    "email": "josh@thederf.com",
+    "name": "Joshua Bemenderfer"
+  },
+  "repository": {
+    "url": "https://git.thederf.com/thederf/trilobyte-lang"
+  }
+}

@@ -1,0 +1,9 @@
+package
+  repository https://git.thederf.com/thederf/trilobyte-lang
+  version 0.0.1
+  title TriloByte Language README
+
+markdown
+  # TriloByte Language Repository
+
+  Reference implementation of the TriloByte meta-language parser.
